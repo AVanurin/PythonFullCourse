@@ -2,8 +2,9 @@
 @size[0.4em](ItMonopoly https://itmonopoly.ru Python course 5m)
 @snapend
 
-
-![Logo](?image=res/PythonLogo.png&position=left&size=10%)
++++
+![Logo](?image=res/PythonLogo.png&position=left&size=50% 50%)
++++
 
 @title[Python course]
 
