@@ -8,7 +8,7 @@
 
 @title[Python course]
 
-@snap[west span-20]
+@snap[west span-120]
 @color[yellow](Python) @color[blue](Course)
 @color[gray](1 Введение в классы и экземпляры)
 @snapend
