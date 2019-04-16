@@ -111,7 +111,7 @@ class PassCard:
 
 # Задавайте ваши вопросы
 
-+++?code=Materials/Classes/1Classes_and_instances/Passcard.py&lang=Python&title=Резюмируя
++++?code=Materials/Classes/1Classes_and_instances/Passcard.py&lang=Python&title=Passcard.py
 
 +++
 @snap[north-west]
