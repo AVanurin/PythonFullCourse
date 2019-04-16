@@ -2,11 +2,11 @@
 @size[0.5em](ItMonopoly https://itmonopoly.ru Python course 5m)
 @snapend
 
-@snap[west]
-![Logo](image=res/PythonLogo.png&size=auto 10%)
+@snap[east]
+![Logo](res/PythonLogo.png&size=auto 10%)
 @snapend
 
-@snap[east]
+@snap[west]
 # Python
 @color[gray]( 1 Введение в классы и экземпляры)
 @snapend
@@ -24,6 +24,9 @@ __Класс(англ. Class)__ - это описание или чертеж н
 @snapend
 
 +++
+Картинку
+
++++
 
 Описать класс означает указать его свойства, которые будут иметь конкретные значения у экземпляров, а также набор функций, называемых __методами(англ. method)__. Методы это инструмент манипуляции данными внутри экземпляра
 
@@ -31,7 +34,7 @@ __Класс(англ. Class)__ - это описание или чертеж н
 
 Класс это описание сущностей. Класс мы только описываем! Работам мы только с экземплярами! Создание, удаление, изменение и все все все делается только с экземплярами!!!
 
-+++?image=res/FigClass11.png&size=auto 10%
++++?image=res/FigClass11.png&size=auto 30%
 
 +++
 @snap[north]
