@@ -1,5 +1,6 @@
 @snap[north-west]
-@size[0.6em](ItMonopoly https://itmonopoly.ru Python course 5m)
+@size[0.3em](ItMonopoly https://itmonopoly.ru Python course 5m)
+@snapend
 
 
 ?image=res/PythonLogo.jpg&position=left
