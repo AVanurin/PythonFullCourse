@@ -4,6 +4,7 @@
 
 @snap[west]
 ![Logo](image=res/PythonLogo.png&size=auto 10%)
+@snapend
 
 @snap[east]
 # Python
@@ -30,7 +31,7 @@ __Класс(англ. Class)__ - это описание или чертеж н
 
 Класс это описание сущностей. Класс мы только описываем! Работам мы только с экземплярами! Создание, удаление, изменение и все все все делается только с экземплярами!!!
 
-+++?image=res/FigClass11.png&size=contain
++++?image=res/FigClass11.png&size=auto 10%
 
 +++
 @snap[north]
@@ -107,7 +108,7 @@ class PassCard:
 
 # Задавайте ваши вопросы
 
-+++?code=Materials/Classes/1Classes_and_instances&lang=Python&title=Резюмируя
++++?code=Materials/Classes/1Classes_and_instances/Passcard.py&lang=Python&title=Резюмируя
 
 +++
 @snap[north-west]
