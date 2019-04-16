@@ -7,7 +7,7 @@
 @snapend
 
 @snap[west]
-# Python 2
+# Python
 @color[gray]( 1 Введение в классы и экземпляры)
 @snapend
 
@@ -112,6 +112,12 @@ class PassCard:
 # Задавайте ваши вопросы
 
 +++?code=Materials/Classes/1Classes_and_instances/Passcard.py&lang=Python&title=Passcard.py
+@[1](Мы создаем класс Passcard)
+@[2-9](Описываем наш класс)
+@[12,20](Создаем экземпляры, карточки для двух людей)
+@[15-17](Описываем свойства нашей карточки)
+@[20-23](Аналогично со вторым экземпляром)
+
 
 +++
 @snap[north-west]
