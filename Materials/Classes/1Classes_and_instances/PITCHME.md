@@ -3,7 +3,7 @@
 @snapend
 
 @snap[west span-50]
-![Logo](image=res/PythonLogo.png)
+![Logo](image=res/PythonLogo.png&size=auto 10%)
 
 @snap[east span-50]
 # Python
@@ -130,7 +130,7 @@ gist=Materials/Classes/1Classes_and_instances&lang=Python&title=Резюмиру
 - Экземплярам задавайте параметры названия, цены и срока годности
 - Этот класс должен иметь метод, который говорит истек ли срок годности или нет
 
----?image=res/End1.png
+---?image=res/End1.png&size=auto 60%
 @snap[south-east]
 @box[bg-gold text-white rounded box-padding](> Конструкторы классов)
 @snapend
