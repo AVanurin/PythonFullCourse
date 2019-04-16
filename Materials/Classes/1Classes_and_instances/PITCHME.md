@@ -3,11 +3,11 @@
 @snapend
 
 @snap[east]
-![Logo](res/PythonLogo.png&size=auto 10%)
+![Logo](res/PythonLogo.png)
 @snapend
 
 @snap[west]
-# Python
+# Python 2
 @color[gray]( 1 Введение в классы и экземпляры)
 @snapend
 
@@ -34,7 +34,7 @@ __Класс(англ. Class)__ - это описание или чертеж н
 
 Класс это описание сущностей. Класс мы только описываем! Работам мы только с экземплярами! Создание, удаление, изменение и все все все делается только с экземплярами!!!
 
-+++?image=res/FigClass11.png&size=auto 30%
++++?image=res/FigClass11.png&size=auto 50%
 
 +++
 @snap[north]
@@ -140,5 +140,5 @@ class PassCard:
 @snapend
 
 @snap[south]
-@size[0.3em][Ушла эпоха](https://meduza.io/video/2019/04/16/posledstviya-pozhara-v-sobore-parizhskoy-bogomateri-video)
+@size[0.3em]([Ушла эпоха](https://meduza.io/video/2019/04/16/posledstviya-pozhara-v-sobore-parizhskoy-bogomateri-video))
 @snapend
