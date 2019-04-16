@@ -3,7 +3,7 @@
 @snapend
 
 +++
-![Logo](?image=res/PythonLogo.png&position=left&size=50% 50%)
+![Logo](?image=res/FigClass11.png&position=left)
 +++
 
 @title[Python course]
