@@ -1,8 +1,12 @@
-![Logo](res/PythonLogo.jpg)
+@snap[north-west]
+@size[0.6em](ItMonopoly https://itmonopoly.ru Python course 5m)
 
-# Python course
 
-## 1 Введение в классы и экземпляры
+?image=res/PythonLogo.jpg&position=left
+
+@title[# Python course]
+
+## @color[gray](1 Введение в классы и экземпляры)
 
 +++
 @snap[north-west]
