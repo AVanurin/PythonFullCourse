@@ -107,8 +107,8 @@ class PassCard:
 
 # Задавайте ваши вопросы
 
-+++
-gist=Materials/Classes/1Classes_and_instances&lang=Python&title=Резюмируя
++++?code=Materials/Classes/1Classes_and_instances&lang=Python&title=Резюмируя
+
 +++
 @snap[north-west]
 Вопросы к вам
@@ -132,7 +132,7 @@ gist=Materials/Classes/1Classes_and_instances&lang=Python&title=Резюмиру
 
 ---?image=res/End1.png&size=auto 60%
 @snap[south-east]
-@box[bg-gold text-white rounded box-padding](# Следующая презентация Конструкторы классов)
+@box[bg-gold text-white rounded box-padding](Следующая презентация#Конструкторы классов)
 @snapend
 
 @snap[south]
