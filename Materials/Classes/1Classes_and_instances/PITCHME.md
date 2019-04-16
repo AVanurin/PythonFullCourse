@@ -2,10 +2,10 @@
 @size[0.5em](ItMonopoly https://itmonopoly.ru Python course 5m)
 @snapend
 
-@snap[west span-50]
+@snap[west]
 ![Logo](image=res/PythonLogo.png&size=auto 10%)
 
-@snap[east span-50]
+@snap[east]
 # Python
 @color[gray]( 1 Введение в классы и экземпляры)
 @snapend
