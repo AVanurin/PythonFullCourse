@@ -1,17 +1,18 @@
 @snap[north-west]
-@size[0.3em](ItMonopoly https://itmonopoly.ru Python course 5m)
+@size[0.4em](ItMonopoly https://itmonopoly.ru Python course 5m)
 @snapend
 
 
-?image=res/PythonLogo.png&position=left
+![Logo](?image=res/PythonLogo.png&position=left)
 
 @title[Python course]
 
+# @color[yellow](Python) @color[blue](Course)
 ## @color[gray](1 Введение в классы и экземпляры)
 
 +++
 Полезные ссылки
-- [https://www.w3schools.com/python/python_classes.asp](W3School)
+- [W3School](https://www.w3schools.com/python/python_classes.asp)
 ---
 @snap[north-west]
 Формальное определение
