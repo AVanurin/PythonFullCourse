@@ -3,7 +3,7 @@
 @snapend
 
 
-?image=res/PythonLogo.jpg&position=left
+?image=res/PythonLogo.png&position=left
 
 @title[# Python course]
 
@@ -28,7 +28,7 @@ __Класс(англ. Class)__ - это описание или чертеж н
 
 +++
 
----?image=res/FigClass11.png
+?image=res/FigClass11.png
 
 +++
 @snap[north]
