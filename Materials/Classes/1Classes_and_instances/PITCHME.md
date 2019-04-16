@@ -30,7 +30,7 @@ __Класс(англ. Class)__ - это описание или чертеж н
 
 Класс это описание сущностей. Класс мы только описываем! Работам мы только с экземплярами! Создание, удаление, изменение и все все все делается только с экземплярами!!!
 
-+++?image=res/FigClass11.png&auto=60%
++++?image=res/FigClass11.png&size=contain
 
 +++
 @snap[north]
@@ -132,9 +132,9 @@ gist=Materials/Classes/1Classes_and_instances&lang=Python&title=Резюмиру
 
 ---?image=res/End1.png&size=auto 60%
 @snap[south-east]
-@box[bg-gold text-white rounded box-padding](> Конструкторы классов)
+@box[bg-gold text-white rounded box-padding](# Следующая презентация Конструкторы классов)
 @snapend
 
 @snap[south]
-@size[0.5em][Ушла эпоха](https://meduza.io/video/2019/04/16/posledstviya-pozhara-v-sobore-parizhskoy-bogomateri-video)
+@size[0.3em][Ушла эпоха](https://meduza.io/video/2019/04/16/posledstviya-pozhara-v-sobore-parizhskoy-bogomateri-video)
 @snapend
