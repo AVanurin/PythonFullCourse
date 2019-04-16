@@ -1,14 +1,8 @@
 @snap[north-west]
-@size[0.4em](ItMonopoly https://itmonopoly.ru Python course 5m)
+@size[0.5em](ItMonopoly https://itmonopoly.ru Python course 5m)
 @snapend
 
-+++
-![](https://github.com/AVanurin/PythonFullCourse/blob/master/res/PythonLogo.png?size=cover)
-+++
-
-@title[Python course]
-
-@snap[west span-120]
+@snap[east span-40]
 @color[yellow](Python) @color[blue](Course)
 @color[gray](1 Введение в классы и экземпляры)
 @snapend
