@@ -14,7 +14,10 @@
 @snapend
 
 +++
+@snap[north]
 Полезные ссылки
+@snapend
+
 @snap[west]
 - [W3School](https://www.w3schools.com/python/python_classes.asp)
 - [Python docs](https://docs.python.org/3/tutorial/classes.html)
@@ -108,17 +111,21 @@ class PassCard:
 @snapend
 
 @snap[west]
+@ol[split-screen-list text-08 span-45](false)
 - Абстрактный
 - Тип
 - Можно только объявить
 - Может быть только один класс с одним именем
+@olend
 @snapend
 
 @snap[east]
+@ol[split-screen-list text-08 span-50](false)
 - Конкретный
 - Значение
 - Можно использовать
 - Можно создавать любое количество разных экземпляров одного класса
+@olend
 @snapend
 
 +++
@@ -206,7 +213,7 @@ class PassCard:
 - Экземплярам задавайте параметры названия, цены и срока годности
 - Этот класс должен иметь метод, который говорит истек ли срок годности или нет
 
----?image=res/End1.png&size=auto 60%
++++?image=res/End1.png&size=auto 60%
 @snap[south-east]
 @box[bg-gold text-white rounded box-padding](Следующая презентация#Конструкторы классов)
 @snapend
